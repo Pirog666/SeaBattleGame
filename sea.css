@@ -37,8 +37,8 @@ form input{
     font-size: 1.1em;
 }
 .miss{
-    background: url("../img/ship.png" ) no-repeat center center;
+    background: url("../img/miss.png") no-repeat center center;
 }
 .hit{
-    background: url("../img/miss.png" ) no-repeat center center;
+    background: url("../img/ship.png") no-repeat center center;
 }
